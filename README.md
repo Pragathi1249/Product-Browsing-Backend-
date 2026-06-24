@@ -139,6 +139,7 @@ project/
 ├── package.json
 ├── package-lock.json
 ├── .gitignore
+|__test.js
 └── README.md
 ```
 
@@ -152,7 +153,6 @@ project/
 
 - Add authentication
 - Deploy frontend UI
-- Add API documentation using Swagger
 - Add automated tests
 - Add caching for frequently accessed queries
 
